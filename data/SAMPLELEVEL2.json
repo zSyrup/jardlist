@@ -1,11 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "id": 2,
+    "name": "Hexagon Force",
+    "author": "xSyrup",
+    "creators": [xSyrup],
+    "verifier": "xSyrup",
+    "verification": "https://youtu.be/nKWJ6zZqJB4",
+    "percentToQualify": "65",
     "password": "Free To Copy",
     "records": [
     ]
