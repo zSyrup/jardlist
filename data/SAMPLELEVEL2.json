@@ -2,7 +2,7 @@
     "id": 2,
     "name": "Hexagon Force",
     "author": "xSyrup",
-    "creators": [xSyrup],
+    "creators": ["xSyrup"],
     "verifier": "xSyrup",
     "verification": "https://youtu.be/nKWJ6zZqJB4",
     "percentToQualify": "65",
