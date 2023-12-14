@@ -1,0 +1,18 @@
+{
+    "id": 9,
+    "name": "Revolt",
+    "author": "Sleepiness2",
+    "creators": ["Sleepiness2"],
+    "verifier": "Sleepiness2",
+    "verification": "https://www.youtube.com/watch?v=pWYlqOWlueY",
+    "percentToQualify": "idk",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "xSyrup",
+            "link": "https://www.youtube.com/watch?v=pWYlqOWlueY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
