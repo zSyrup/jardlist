@@ -1,0 +1,18 @@
+{
+    "id": 10,
+    "name": "shitcore0001",
+    "author": "nixxy",
+    "creators": ["nixxy"],
+    "verifier": "nixxy",
+    "verification": "https://www.youtube.com/watch?v=hYE1x65X-h8",
+    "percentToQualify": 37,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "xSyrup",
+            "link": "https://www.youtube.com/watch?v=pWYlqOWlueY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
